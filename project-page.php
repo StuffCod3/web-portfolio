@@ -76,11 +76,10 @@
     <div class="container">
         <div class="footer__wrapper">
             <ul class="social">
-                <li class="social__item"><a href="#!"><img src="/img/icons/vk.svg" alt="Link"></a></li>
-                <li class="social__item"><a href="#!"><img src="/img/icons/instagram.svg" alt="Link"></a></li>
-                <li class="social__item"><a href="#!"><img src="/img/icons/twitter.svg" alt="Link"></a></li>
-                <li class="social__item"><a href="#!"><img src="/img/icons/gitHub.svg" alt="Link"></a></li>
-                <li class="social__item"><a href="#!"><img src="/img/icons/linkedIn.svg" alt="Link"></a></li>
+                <li class="social__item"><a href="https://vk.com/3stuff"><img src="/img/icons/vk.svg" alt="Link"></a></li>
+                <li class="social__item"><a href="https://www.instagram.com/3evgeny"><img src="/img/icons/instagram.svg" alt="Link"></a></li>
+                <li class="social__item"><a href="https://github.com/StuffCod3"><img src="/img/icons/gitHub.svg" alt="Link"></a></li>
+                <li class="social__item"><a href="https://t.me/stuff3h"><img src="/img/icons/telegram.svg" alt="Link"></a></li>
             </ul>
             <div class="copyright">
                 <p>© 2024 stuffcode.ru</p>
